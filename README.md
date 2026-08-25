@@ -3,6 +3,8 @@
 ## 📊 Project Overview
 This project presents an interactive **Sales Analytics Dashboard** built using Microsoft Excel to analyze sales performance, customer behavior, and product profitability. The dashboard enables users to explore key business metrics such as revenue, profit, discounts, and regional performance through dynamic visualizations.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c6cb7a16-7f3a-4def-b7f9-5e6b8725a32a" />
+
 ---
 
 ## 🎯 Project Objectives
@@ -91,8 +93,6 @@ The dataset contains transactional sales data with the following fields:
 
 ## 📌 Future Improvements
 
-- Integrate with **Power BI** for advanced visualization  
-- Add **predictive analytics (ML models)**  
 - Automate data updates using external sources  
 - Deploy as a web-based dashboard  
 
